@@ -1,0 +1,32 @@
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline, .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline p  {
+    color:#000000;
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-timespan {
+    background-color: rgba(85,136,163,.7);
+    z-index: 1;
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline{
+    color: #fff;
+    font-weight: bold;
+    
+}
+
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container{
+    background-color: #145374;
+    border-color: #00334E;
+}
+
+#rangeText {
+    text-align: center;
+}
+
+.example {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#slider-date {
+    width: 60%;
+    margin: auto;
+}
